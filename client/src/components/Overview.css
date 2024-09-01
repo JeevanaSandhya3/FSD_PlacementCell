@@ -1,0 +1,185 @@
+.Container1{
+    height:52rem;
+    /* height:; */
+    width:120rem;
+    margin:auto;
+    padding:auto;
+    background-image:url(./images/cbit.jpeg);
+    background-position: center center;
+    background-size: cover; 
+    background-repeat: no-repeat;
+}
+
+.boxStyle{
+    /* padding: 50px; */
+    position:relative;
+    left:75rem;
+    top:12rem;
+    width:30%;
+    height:35%;
+    border:2px solid rgba(0 0 0 0.6);
+    outline:none;
+    border-radius:30px;
+    color:white; 
+    background-color:rgba(32, 31 , 31 , 0.6);
+    /* font-size: 10px; */
+}
+
+.boxStyle h1{
+    padding-top:30px;
+    padding-left:15px;
+    /* text-align: left; */
+    font-size:27px;
+    font-weight:600;
+    margin-bottom:0px;
+    margin-top:12px;
+}  
+
+/* .boxStyle h3{
+    /* padding:30px 15px; */
+    /* text-align: left; 
+    padding-left:15px;
+    padding-top:15px;
+    /* padding-bottom:0px; */
+    /* margin-top:15px; 
+    font-size:20px;
+    font-weight:400;
+} */
+
+
+.boxStyle h3{
+    padding-left:15px;
+    font-weight:400;
+    font-size:20px;
+    line-break:1.2px;
+}
+
+.boxStyle .ele1{
+    margin-top:10px;
+    padding-top:10px;
+    
+}
+
+.boxStyle .ele2{
+    padding-top:10px;
+   
+}
+
+.BoxStyle{
+    position:relative;
+    top:590px;
+    left:5.5%;
+    margin-left:10px;
+    display:flex;
+    align-items:center;
+    /*margin:0px 0px 0px 0px; */
+    /* /padding:200px 0px 0px 0px */
+}
+
+.subBoxStyle{
+    border:1px solid white;
+    border-radius:5px;
+    padding-top:0px;
+    margin-right:30px;
+    margin-bottom:40px;
+    box-shadow:0 0 1px 0 #464242;
+    width:540px;
+    height:340px;
+    text-align:left;
+    padding: 20px;
+    display: flex; /* Add display:flex*/
+    flex-direction: column;/*Stack children vertically*/
+    justify-content: center;
+    /* h3{
+         left:10px
+    };
+    p:{
+        margin-left:10px
+    };
+    button:{
+        padding-left:10px
+    }
+     */
+}
+
+.subBoxStyle h3{
+    left:10px;
+}
+
+.subBoxStyle p{
+    margin-left:0px;
+}
+
+.subBoxStyle button{
+    padding-left:10px;
+}
+
+.subBoxStyle2{
+    border:1px solid white;
+    border-radius:5px;
+    padding-top:0px;
+    margin-right:30px;
+    margin-bottom:40px;
+    box-shadow:0 0 1px 0 #464242;
+    /* width:540px; */
+    width:70%;
+    height:340px;
+     /* textAlign: center; */
+    padding: 20px;
+    display: flex; /* Add display:flex*/
+    flex-direction: column; /* Stack children vertically*/
+    justify-content: center;
+}
+
+
+.Brochure{
+    z-index:2;
+    /* position:relative;
+    top:0px;
+    left:900px; */
+    /* bottom:200px; */
+    width:570px;
+    height:600px;
+    /* 'margin-right':'200px' */
+      /* li:{
+          'list-style':'none';
+      } */
+    padding:20px;
+    display:flex;
+    flex-direction: column; 
+    justify-content: center;
+}
+
+.listStyle1{
+    font-size:16px;
+    font-weight:600;
+    margin:50px;
+    list-style:none;
+    width:100%;
+    border-radius:5px;
+    box-shadow:2px 0px 0.4px grey;
+    border:2px solid white
+}
+
+.Brochureul{
+    border:1px solid white;
+    padding-top:25px;
+    padding-bottom:5px;
+    margin-right:20px;
+    margin-left:0;
+    padding-right:50px;
+    margin-right:20px;
+    cursor:'pointer'
+}
+
+.imgStyle{
+    margin:0;
+    width:95px;
+    height:65px;
+    /* // 'margin-right':'5px' ; */
+    cursor:pointer;
+    /* // display:block; */
+    /* // width:'12px' ; */
+    /* // height:'12px' */
+}
+

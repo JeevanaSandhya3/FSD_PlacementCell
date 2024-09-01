@@ -1,0 +1,28 @@
+.Statistics {
+    width: 100%;
+}
+
+.Statistics .container {
+    width: 1240px;
+    margin: 4rem auto;
+    padding: 4rem 0rem;
+}
+
+.Statistics h2 {
+    font-size: 3rem;
+    text-align: center;
+}
+
+.Statistics span {
+    color: var(--primary-color);
+    font-size: 1rem;
+    font-weight: 700;
+}
+.Statistics .container .container2{
+    display: flex;
+    margin: 2rem auto; 
+    padding: 2rem 0rem; 
+    justify-content: center; 
+    align-items: center;
+}
+
